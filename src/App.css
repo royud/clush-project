@@ -1,0 +1,11 @@
+:root {
+  /* 길이 */
+  --length-width: 1400px;
+
+  --length-height-header: 56px;
+  --length-margin-header: 30px;
+
+  --color-main: #346ce5;
+  --color-gray: #e0e0e0;
+  --color-danger: #e53434;
+}
